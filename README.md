@@ -44,7 +44,7 @@
 
 使用Markdown格式编写，上传至相应文件夹中，命名为：xx月xx日（报告的截止日期，一般是周日）
 
-无特殊情况，需每周六或周日，有特殊情况交不上来的请与 <a href="tencent://message/?uin=2319841923&Site=在线咨询&Menu=yes"> @OREO-code </a>或<a href="tencent://message/?uin=761746229&Site=在线咨询&Menu=yes"> @Homie6324 </a>    联系，否则可能会被公开处刑。
+无特殊情况，需每周六或周日，有特殊情况交不上来的请与 <a href="tencent://message/?uin=2319841923&Site=在线咨询&Menu=yes"> @OREO-code(请求tencent://message/?uin=2319841923) </a>或<a href="tencent://message/?uin=761746229&Site=在线咨询&Menu=yes"> @Homie6324(请求tencent://message/?uin=761746229) </a>    联系，否则可能会被公开处刑。
 
 #### 具体格式要求：
 
